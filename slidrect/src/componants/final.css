@@ -1,0 +1,28 @@
+.head{
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+padding-top: 20px;
+
+}
+.bg{
+    background: white; 
+    height: 700px;
+}
+.h{ 
+    color: green;
+}
+.p{    
+     font-size: 2rem;
+     color: black;
+     font-size: 1.8rem;
+}
+.im{
+padding-top: 20px;
+}
+.BrainhubCarousel__arrows ,.BrainhubCarousel__arrowLeft{
+    background-color: green !important;
+}
+.bi{
+background-image:url(https://www.minecraft.net/content/dam/minecraft/backgrounds/bg-wool-dark.png);
+}   
