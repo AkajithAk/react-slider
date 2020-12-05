@@ -18,6 +18,8 @@ import im4 from "../images/d.jpg";
  import '@brainhubeu/react-carousel/lib/style.css';
 import './final.css';
 
+/*hi*/
+
 class MyCarousel extends React.Component {
   resizeSurrounding() {
     const width = document.querySelector("#width").value;
