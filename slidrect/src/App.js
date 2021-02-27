@@ -9,7 +9,7 @@ function App() {
     <div className="App">
      
        <MyCarousel/>
-      {/* /this is changed by ajith */}
+      {/* /this is changed by ajith kumar */}
     </div>
   );
 }
